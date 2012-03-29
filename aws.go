@@ -1,1 +1,1 @@
-aws.go is not at http://github.com/bmizerany/aws
+aws.go is now at http://github.com/bmizerany/aws
